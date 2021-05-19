@@ -1,6 +1,7 @@
+
 def fibonacci(n):
     if n < 0:
-        return("Please enter a positive integer")
+        return("Please enter a positive integer.")
     if n <= 1:
         return n
     else:
